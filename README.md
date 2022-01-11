@@ -4,6 +4,11 @@ Eu atualmente trabalho na PRODABEL como Analista / Desenvolvedor - utilizando Vu
 
 Estou estudando atualmente sobre Vue.js ,Java Script e Internet Of Things.
 
+<div>
+  Entre em contato pelo meu Linkdin:
+  <a href="https://www.linkedin.com/in/celson-fernando-2622215b/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+</div>
+
 <!--
 **CelsonF/CelsonF** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
