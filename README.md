@@ -1,4 +1,10 @@
-### Hi there 👋
+### Olá , sou Celson Fernando 👋
+
+Eu atualmente trabalho na PRODABEL como Analista / Desenvolvedor - utilizando Vue.Js e PLSQL.
+
+Estou estudando atualmente sobre Vue.js ,Java Script e Internet Of Things.
+
+
 
 <!--
 **CelsonF/CelsonF** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +20,18 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+https://github-readme-stats.vercel.app/api?username={CelsonF}&theme=blue-green
+
+
+Meu Setup Atual é:
+
+S.O.
+https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white
+https://img.shields.io/badge/Arch_Linux-1793D1?style=for-the-badge&logo=arch-linux&logoColor=white
+
+
+https://img.shields.io/badge/NVIDIA-GTX960-76B900?style=for-the-badge&logo=nvidia&logoColor=white
+https://img.shields.io/badge/AMD-Ryzen_5_5600X-ED1C24?style=for-the-badge&logo=amd&logoColor=white
+Placa-mãe: ASUS B550 TUF GAMING
+16GB de Memória RAM
+SSD M.2 1TB PCI-4.0
