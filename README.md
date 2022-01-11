@@ -21,6 +21,8 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
+
+
 <div>
   <a href="https://github.com/CelsonF" class="d-flex justify-content-center"> 
    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=CelsonF&show_icons=true&theme=blue-green&include_all_commits=true&count_private=true"/>
