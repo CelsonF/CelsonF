@@ -40,7 +40,8 @@ Here are some ideas to get you started:
   <img align="center" alt="Celson-Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
 </div>
 
-
+</br>
+</br>
 
 Meu Setup Atual é:
 
