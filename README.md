@@ -1,13 +1,3 @@
-<style>
-  .d-flex {
-   display:flex;
-  }
-  
-  .justify-content-center {
-   justify-content:center;
-  }
-</style>
-
 ### Olá , sou Celson Fernando 👋
 
 Eu atualmente trabalho na PRODABEL como Analista / Desenvolvedor - utilizando Vue.Js e PLSQL.
@@ -36,6 +26,16 @@ Here are some ideas to get you started:
    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=CelsonF&show_icons=true&theme=blue-green&include_all_commits=true&count_private=true"/>
    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=CelsonF&layout=compact&langs_count=7&theme=blue-green"/>
   </a>
+</div>
+
+<div style="display: inline_block"><br>
+  <img align="center" alt="Celson-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
+  <img align="center" alt="Celson-Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
+  <img align="center" alt="Celson Vue"  height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original-wordmark.svg" />
+  <img align="center" alt="Celson-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
+  <img align="center" alt="Celson-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
+  <img align="center" alt="Celson-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+  <img align="center" alt="Celson-Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
 </div>
 
 
