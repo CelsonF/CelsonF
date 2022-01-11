@@ -5,7 +5,7 @@ Eu atualmente trabalho na PRODABEL como Analista / Desenvolvedor - utilizando Vu
 Estou estudando atualmente sobre Vue.js ,Java Script e Internet Of Things.
 
 <div>
-  Entre em contato pelo meu Linkdin:
+  <p>Entre em contato pelo meu Linkdin: </p>
   <a href="https://www.linkedin.com/in/celson-fernando-2622215b/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
 </div>
 
