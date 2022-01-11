@@ -62,22 +62,33 @@ Here are some ideas to get you started:
 
 Meu Setup Atual é:
 
-S.O.
-
+S.Os
 <div>
- <a href="#" target="_blank">
+ <a href="https://www.microsoft.com/pt-br/" target="_blank">
   <img alt="Windows" src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white"> 
  </a>
-  <a href="#" target="_blank">
+  <a href="https://archlinux.org/" target="_blank">
   <img alt="Arch Linux" src="https://img.shields.io/badge/Arch_Linux-1793D1?style=for-the-badge&logo=arch-linux&logoColor=white"> 
  </a>
 </div>
 
 
+💻 Hardware:
 
-
-https://img.shields.io/badge/NVIDIA-GTX960-76B900?style=for-the-badge&logo=nvidia&logoColor=white
-https://img.shields.io/badge/AMD-Ryzen_5_5600X-ED1C24?style=for-the-badge&logo=amd&logoColor=white
-Placa-mãe: ASUS B550 TUF GAMING
-16GB de Memória RAM
-SSD M.2 1TB PCI-4.0
+<div>
+ <a href="https://www.nvidia.com/Download/index.aspx" target="_blank">
+  <img alt="Placa de vídeo GTX 960" src="https://img.shields.io/badge/NVIDIA-GTX960-76B900?style=for-the-badge&logo=nvidia&logoColor=white"> 
+ </a>
+ <a href="https://www.microsoft.com/pt-br/" target="_blank">
+  <img alt="Processador AMD Ryzen" src="https://img.shields.io/badge/AMD-Ryzen_5_5600X-ED1C24?style=for-the-badge&logo=amd&logoColor=white"> 
+ </a>
+ <p>
+  Placa-mãe: ASUS B550 TUF GAMING
+ </p>
+  <p>
+   16GB de Memória RAM
+  </p>
+  <p>
+  SSD M.2 1TB PCI-4.0
+  </p>
+</div>
