@@ -55,13 +55,13 @@ Here are some ideas to get you started:
 
 </br>
 
-### Ferramentas de Desenvolvimento:
+### Ferramentas de Desenvolvimento e Testes:
 <div style="display: inline_block">
    <img align="center" alt="Celson Docker"  height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original-wordmark.svg" />
    <img align="center" alt="Celson Git" height="30" width="40"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
    <img align="center" alt="Celson GitLab" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gitlab/gitlab-original-wordmark.svg" />
    <img align="center" alt="Celson GitHub" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" />
-
+   <img align="center" alt="Celson Jest" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jest/jest-plain.svg" />
 </div>
 
 </br>
