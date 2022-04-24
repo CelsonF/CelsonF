@@ -104,7 +104,7 @@ S.Os
   <img alt="Placa de vídeo GTX 960" src="https://img.shields.io/badge/NVIDIA-GTX960-76B900?style=for-the-badge&logo=nvidia&logoColor=white"> 
  </a>
  <a href="https://www.microsoft.com/pt-br/" target="_blank">
-  <img alt="Processador AMD Ryzen" src="https://img.shields.io/badge/AMD-Ryzen_5_5600X-ED1C24?style=for-the-badge&logo=amd&logoColor=white"> 
+  <img alt="Processador AMD Ryzen" src="https://img.shields.io/badge/AMD-Ryzen_7_5800X-ED1C24?style=for-the-badge&logo=amd&logoColor=white"> 
  </a>
  <p>
   Placa-mãe: ASUS B550 TUF GAMING
