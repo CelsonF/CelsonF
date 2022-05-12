@@ -2,7 +2,7 @@
 
 Eu atualmente trabalho na PRODABEL como Analista / Desenvolvedor - utilizando Vue.Js e PLSQL.
 
-Estou estudando atualmente sobre Vue.js ,Java Script e Internet Of Things.
+Estou estudando atualmente sobre Vue.js ,Java Script e UI/UX.
 
 <div>
   <p>Entre em contato pelo meu Linkedin: </p>
