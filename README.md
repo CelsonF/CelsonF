@@ -94,36 +94,3 @@ S.Os
   <img alt="Arch Linux" src="https://img.shields.io/badge/Arch_Linux-1793D1?style=for-the-badge&logo=arch-linux&logoColor=white"> 
  </a>
 </div>
-
-
-💻 Hardware:
-
-<div>
- <p>
-   Gabinete: Cooler Master Masterbox MB520 
- </p>
- <a href="https://www.nvidia.com/Download/index.aspx" target="_blank">
-  <img alt="Placa de vídeo RTX 3070ti" src="https://img.shields.io/badge/NVIDIA-RTX3070ti-76B900?style=for-the-badge&logo=nvidia&logoColor=white"> 
- </a>
- <a href="https://www.microsoft.com/pt-br/" target="_blank">
-  <img alt="Processador AMD Ryzen" src="https://img.shields.io/badge/AMD-Ryzen_7_5800X-ED1C24?style=for-the-badge&logo=amd&logoColor=white"> 
- </a>
- <p>
-  Placa-mãe: ASUS B550 TUF GAMING
- </p>
- <p>
-  CPU COOLER: NOCTUA NH-U12S chromax.black
- </p>
-  <p>
-   16GB de Memória RAM TEAM Group
-  </p>
-  <p>
-    SSD M.2 CORSAIR MP600 PRO XT 1TB PCI-4.0 -- Leitura 7100mbps - Escrita 5800mbps
-  </p>
-  <p>
-    SSD M.2 XPG S41 512GB PCI-3.0 -- Leitura 3500 - Escrita 2400 mbps 
-  </p>
-  
-  
-  
-</div>
