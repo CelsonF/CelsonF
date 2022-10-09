@@ -68,7 +68,6 @@ Here are some ideas to get you started:
 ### Ferramentas de Design:
 <div style="display: inline_block">
   <img align="center" alt="Celson Figma"  height="30" width="40"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" />
-  <img align="center" alt="Celson AdobeXD"  height="30" width="40"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/xd/xd-plain.svg" />
   <img align="center" alt="Celson GIMP"  height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gimp/gimp-original-wordmark.svg" />
   <img align="center" alt="Celson Inkscape"  height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/inkscape/inkscape-original-wordmark.svg" />
 </div>
