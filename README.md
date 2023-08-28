@@ -1,11 +1,11 @@
 ### Olá , sou Celson Fernando 👋
 
-Eu atualmente trabalho na PRODABEL como Analista / Desenvolvedor - utilizando Vue.Js e PLSQL.
+I’m currently working on PRODABEL with Analyst System / Full Stack Developer - using Vue.Js with NodeJS in news systems, Java with Spring Boot in legacy systems and Oracle PL-SQL.
 
-Estou estudando atualmente sobre Vue.js ,Java Script e UI/UX.
+I’m currently learning Vue.js 3, Nuxt 3, UI/UX and test.
 
 <div>
-  <p>Entre em contato pelo meu Linkedin: </p>
+  <p> How to reach me: </p>
   <a href="https://www.linkedin.com/in/celson-fernando-2622215b/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
 </div>
 
@@ -31,7 +31,7 @@ Here are some ideas to get you started:
   </a>
 </div>
 
-### Linguagens:
+### Languages:
 <div style="display: inline_block"><br>
   <img align="center" alt="Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
@@ -56,7 +56,7 @@ Here are some ideas to get you started:
 
 </br>
 
-### Ferramentas de Desenvolvimento e Testes:
+### Tools for Development and Test:
 <div style="display: inline_block">
    <img align="center" alt="Celson Docker"  height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original-wordmark.svg" />
    <img align="center" alt="Celson Git" height="30" width="40"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
@@ -67,31 +67,33 @@ Here are some ideas to get you started:
 
 </br>
 
-### Ferramentas de Design:
+### Tools for Design:
 <div style="display: inline_block">
-  <img align="center" alt="Celson Figma"  height="30" width="40"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" />
-  <img align="center" alt="Celson GIMP"  height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gimp/gimp-original-wordmark.svg" />
-  <img align="center" alt="Celson Inkscape"  height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/inkscape/inkscape-original-wordmark.svg" />
+  <img align="center" alt="Figma"  height="30" width="40"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" />
+  <img align="center" alt="Penpot"  height="30" width="40"  src="https://site-assets.plasmic.app/5a092f8c015ea24a9c0953e5ca065580.svg" />
+  <img align="center" alt="GIMP"  height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gimp/gimp-original-wordmark.svg" />
+  <img align="center" alt="Inkscape"  height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/inkscape/inkscape-original-wordmark.svg" />
 </div>
  
 </br>
 
-### Ferramentas utilizadas em Hobby:
+## ⚡ Fun fact:
+
+### Tools utilited in Free Time:
 <div style="display: inline_block">
   <img align="center" alt="Celson Arduino" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/arduino/arduino-original-wordmark.svg" />
-  <img align="center" alt="Celson C" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" />
+  <img align="center" alt="Celson C" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg"/>
 </div>
 
 </br>
 
-Meu Setup Atual é:
 
-S.Os
+### S.Os
 <div>
- <a href="https://www.microsoft.com/pt-br/" target="_blank">
+<a href="https://www.microsoft.com/pt-br/" target="_blank">
   <img alt="Windows" src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white"> 
- </a>
-  <a href="https://archlinux.org/" target="_blank">
+</a>
+<a href="https://archlinux.org/" target="_blank">
   <img alt="Arch Linux" src="https://img.shields.io/badge/Arch_Linux-1793D1?style=for-the-badge&logo=arch-linux&logoColor=white"> 
- </a>
+</a>
 </div>
