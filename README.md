@@ -1,8 +1,8 @@
 ### Hi , I'm Celson Fernando Rodrigues👋
 
-I’m currently working on PRODABEL with Analyst System / Full Stack Developer - using Vue.Js with NodeJS in news systems, Java with Spring Boot and JBOSS in legacy systems and Oracle PL-SQL.
+I’m currently working on PRODABEL with Analyst System / Full Stack Developer - using Vue 2 with NodeJS in news systems, Java with Spring Boot and JBOSS/JCOMPANY in legacy systems and Oracle PL-SQL.
 
-I’m currently learning Vue.js 3, Nuxt 3, UI/UX and test.
+I’m currently learning React, Next, NestJS and Node.js, UI/UX and tests using Jest.
 
 <div>
   <p> How to reach me: </p>
@@ -93,6 +93,9 @@ Here are some ideas to get you started:
 <a href="https://www.microsoft.com/pt-br/" target="_blank">
   <img alt="Windows" src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white"> 
 </a>
+
+</br>
+  
 <a href="https://archlinux.org/" target="_blank">
   <img alt="Arch Linux" src="https://img.shields.io/badge/Arch_Linux-1793D1?style=for-the-badge&logo=arch-linux&logoColor=white"> 
 </a>
