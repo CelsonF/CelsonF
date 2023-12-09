@@ -1,6 +1,6 @@
 ### Hi , I'm Celson Fernando Rodrigues👋
 
-I’m currently working on PRODABEL with Analyst System / Full Stack Developer - using Vue 2 with NodeJS in news systems, Java with Spring Boot and JBOSS/JCOMPANY in legacy systems and Oracle PL-SQL.
+I’m currently working on INTER with Full Stack Developer - JAVA.
 
 I’m currently learning React, Next, NestJS and Node.js, UI/UX and tests using Jest.
 
