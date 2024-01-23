@@ -6,7 +6,7 @@ I’m currently learning React and NEXT.JS, Java, Spring and Micronaut.
 
 <div>
   <p> How to reach me: </p>
-  <a href="https://www.linkedin.com/in/celson-fernando-2622215b/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+  <a href="https://www.linkedin.com/in/celson-fernando-rodrigues-2622215b/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
 </div>
 
 <!--
