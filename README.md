@@ -79,7 +79,7 @@ Here are some ideas to get you started:
 
 ## ⚡ Fun fact:
 
-### Tools utilited in Free Time:
+### Tools utilized in Free Time:
 <div style="display: inline_block">
   <img align="center" alt="Celson Arduino" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/arduino/arduino-original-wordmark.svg" />
   <img align="center" alt="Celson C" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg"/>
@@ -93,10 +93,12 @@ Here are some ideas to get you started:
 <a href="https://www.microsoft.com/pt-br/" target="_blank">
   <img alt="Windows" src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white"> 
 </a>
-
-</br>
   
 <a href="https://archlinux.org/" target="_blank">
   <img alt="Arch Linux" src="https://img.shields.io/badge/Arch_Linux-1793D1?style=for-the-badge&logo=arch-linux&logoColor=white"> 
+</a>
+
+<a href="https://pt.wikipedia.org/wiki/MacOS" target="_blank">
+  <img alt="Mac Os" src="https://img.shields.io/badge/macos"> 
 </a>
 </div>
