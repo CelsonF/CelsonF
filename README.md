@@ -1,8 +1,8 @@
 ### Hi , I'm Celson Fernando Rodrigues👋
 
-I’m currently working on INTER with Full Stack Developer - JAVA.
+I’m currently working on INTER with Full Stack Developer - JAVA with Micronaut | React.
 
-I’m currently learning React, Next, NestJS and Node.js, UI/UX and tests using Jest.
+I’m currently learning React and NEXT.JS, Java, Spring and Micronaut.
 
 <div>
   <p> How to reach me: </p>
