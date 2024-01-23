@@ -98,7 +98,4 @@ Here are some ideas to get you started:
   <img alt="Arch Linux" src="https://img.shields.io/badge/Arch_Linux-1793D1?style=for-the-badge&logo=arch-linux&logoColor=white"> 
 </a>
 
-<a href="https://pt.wikipedia.org/wiki/MacOS" target="_blank">
-  <img alt="Mac Os" src="https://img.shields.io/badge/macos"> 
-</a>
 </div>
