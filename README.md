@@ -56,6 +56,24 @@ Here are some ideas to get you started:
 
 </br>
 
+
+<div style="display: inline_block"><br>
+  <!-- React Ecosystem -->
+  <img align="center" alt="Redux" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg">
+  <img align="center" alt="Next.js" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original-wordmark.svg">
+  <img align="center" alt="Styled-Components" height="30" width="40" src="https://raw.githubusercontent.com/styled-components/brand/master/styled-components.png">
+  <img align="center" alt="GraphQL" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/graphql/graphql-plain.svg">
+  <img align="center" alt="React Testing Library" height="30" width="40" src="https://testing-library.com/img/octopus-128x128.png">
+  
+  <!-- Java Ecosystem -->
+  <img align="center" alt="Spring Boot" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original-wordmark.svg">
+  <img align="center" alt="Micronaut" height="30" width="40" src="https://micronaut.io/assets/logos/micronaut-icon.png">
+  <img align="center" alt="Hibernate" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/hibernate/hibernate-plain.svg">
+  <img align="center" alt="Maven" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apache/apache-original-wordmark.svg">
+  <img align="center" alt="JUnit" height="30" width="40" src="https://junit.org/junit5/assets/img/junit5-logo.png">
+</div>
+
+
 ### Tools for Development and Test:
 <div style="display: inline_block">
    <img align="center" alt="Celson Docker"  height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original-wordmark.svg" />
