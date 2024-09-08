@@ -78,7 +78,7 @@ Here are some ideas to get you started:
   
   <!-- Java Ecosystem -->
   <img align="center" alt="Spring Boot" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original-wordmark.svg">
-  <img align="center" alt="Micronaut" height="30" width="40" src="![image](https://github.com/user-attachments/assets/ace8513d-c2e7-4d24-8490-eab30afc171b)">
+  <img align="center" alt="Micronaut" height="30" width="40" src="https://objectcomputing.com/files/2716/2256/3799/micronaut_stacked_black.png">
   <img align="center" alt="Hibernate" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/hibernate/hibernate-plain.svg">
   <img align="center" alt="Maven" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apache/apache-original-wordmark.svg">
 </div>
