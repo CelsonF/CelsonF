@@ -114,9 +114,3 @@ I’m currently learning React and NEXT.JS, Java, Spring, Micronaut and AWS.
 </a>
 
 </div>
-
-
-### Projects
-<div>
-  [![wakatime](https://wakatime.com/badge/github/CelsonF/yoga-next-site.svg)](https://wakatime.com/badge/github/CelsonF/yoga-next-site)
-</div>
