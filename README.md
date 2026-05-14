@@ -1,115 +1,184 @@
 # Hi, I'm Celson Fernando Rodrigues 👋
 
-🚀 **Senior Backend Engineer | Java | Distributed Systems | Cloud**
+## Senior Full Stack Engineer | Java | Node.js | React | Cloud
 
-I’m a Backend Software Engineer with over a decade of experience building scalable systems, APIs, and cloud-native applications.  
-My main focus is designing **high-performance distributed systems using Java and modern cloud infrastructure**.
+Full Stack Software Engineer with 10+ years of experience building scalable applications, distributed systems, cloud-native platforms, and modern web applications.
 
-I specialize in backend architecture, microservices, event-driven systems, and cloud platforms.
+Specialized in backend architecture using Java and Node.js, while also building modern front-end applications with React, Next.js, and TypeScript.
 
----
-
-## 🌎 Open to International Opportunities
-
-I am interested in working with global teams building scalable platforms, fintech systems, and high-throughput distributed architectures.
+I focus on creating scalable, maintainable, and high-performance systems across the entire stack.
 
 ---
 
-## 📫 How to reach me
+# 🌎 Open to International Opportunities
 
+I’m open to remote international opportunities with global teams building scalable platforms, fintech systems, SaaS products, and high-throughput architectures.
+
+---
+
+# 📫 Contact
+
+<p>
 <a href="https://www.linkedin.com/in/celson-fernando-rodrigues-2622215b/" target="_blank">
 <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
 </a>
+</p>
 
 ---
 
-# 🧠 Core Backend Stack
+# 🧠 Full Stack Tech Stack
 
-### Languages
-<div style="display: inline_block">
-<img align="center" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg"/>
-</div>
+## Languages
 
-### Backend Frameworks
-<div style="display: inline_block">
-<img align="center" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original-wordmark.svg"/>
-<img align="center" height="40" width="50" src="https://objectcomputing.com/files/2716/2256/3799/micronaut_stacked_black.png"/>
-</div>
+<p>
+<img align="center" height="45" width="55" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg"/>
+<img align="center" height="45" width="55" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg"/>
+<img align="center" height="45" width="55" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg"/>
+</p>
 
 ---
 
-# 🏗 Backend Architecture
+# ⚙️ Backend Development
 
-I focus on designing scalable and resilient backend systems using modern architectural patterns.
+<p>
+<img align="center" height="45" width="55" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original-wordmark.svg"/>
+<img align="center" height="45" width="55" src="https://objectcomputing.com/files/2716/2256/3799/micronaut_stacked_black.png"/>
+<img align="center" height="45" width="55" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg"/>
+</p>
 
-- Microservices Architecture
-- Event-Driven Systems
-- RESTful APIs
+### Backend Technologies
+
+- Java
+- Spring Boot
+- Micronaut
+- Node.js
+- REST APIs
+- GraphQL
+- Distributed Systems
+- Event-Driven Architecture
+- Microservices
+- Domain Driven Design (DDD)
 - Backend for Frontend (BFF)
 - Server Driven UI (SDUI)
+
+---
+
+# 🎨 Frontend Development
+
+<p>
+<img align="center" height="45" width="55" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg"/>
+<img align="center" height="45" width="55" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg"/>
+<img align="center" height="45" width="55" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg"/>
+<img align="center" height="45" width="55" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg"/>
+</p>
+
+### Frontend Technologies
+
+- React
+- Next.js
+- TypeScript
+- Vue.js
+- Tailwind CSS
+- Responsive UI
+- Component Architecture
+- Modern Web Applications
+- Performance Optimization
+- Server Side Rendering (SSR)
+- Progressive Web Apps (PWA)
+
+---
+
+# 🏗 Architecture & Engineering
+
+I design scalable and resilient applications using modern software architecture patterns.
+
+### Architecture Experience
+
+- Full Stack Architecture
+- Microservices Architecture
+- Event-Driven Systems
 - Distributed Systems
-- Domain Driven Design (DDD)
+- API Design
+- Clean Architecture
+- Scalable Frontend Applications
+- Cloud-native systems
+- High-throughput platforms
+
+### Engineering Focus
+
+- Scalability
+- Performance optimization
+- Resilient systems
+- Maintainable codebases
+- Developer experience
+- Automated testing
 
 ---
 
 # ☁️ Cloud & Infrastructure
 
-<div style="display: inline_block">
-<img align="center" height="40" width="40" src="https://www.svgrepo.com/show/448266/aws.svg">
-<img align="center" height="40" width="40" src="https://www.svgrepo.com/show/448233/kubernetes.svg">
-<img align="center" height="40" width="40" src="https://www.svgrepo.com/show/354444/terraform.svg">
-</div>
+<p>
+<img align="center" height="45" width="45" src="https://www.svgrepo.com/show/448266/aws.svg">
+<img align="center" height="45" width="45" src="https://www.svgrepo.com/show/448233/kubernetes.svg">
+<img align="center" height="45" width="45" src="https://www.svgrepo.com/show/354444/terraform.svg">
+<img align="center" height="45" width="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original-wordmark.svg"/>
+</p>
 
-Technologies:
+### Infrastructure Stack
 
 - AWS
 - Kubernetes
-- Infrastructure as Code (Terraform)
+- Docker
+- Terraform
+- CI/CD Pipelines
+- Infrastructure as Code (IaC)
 - Containerized workloads
 - Scalable cloud infrastructure
 
 ---
 
-# ⚙️ DevOps & Development Tools
+# ⚙️ DevOps & Tools
 
-<div style="display: inline_block">
-<img align="center" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original-wordmark.svg"/>
-<img align="center" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg"/>
-<img align="center" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg"/>
-<img align="center" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gitlab/gitlab-original-wordmark.svg"/>
-</div>
+<p>
+<img align="center" height="45" width="55" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg"/>
+<img align="center" height="45" width="55" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg"/>
+<img align="center" height="45" width="55" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gitlab/gitlab-original-wordmark.svg"/>
+</p>
 
-- Docker
-- CI/CD pipelines
-- GitHub / GitLab
+### Workflow & Practices
+
+- GitHub & GitLab
+- CI/CD automation
+- Agile development
 - Automated testing
-- Continuous integration workflows
+- Code reviews
+- Technical mentoring
 
 ---
 
 # 🧪 Testing & Quality
 
-<div style="display: inline_block">
+<p>
 <img align="center" height="40" width="40" src="https://junit.org/junit5/assets/img/junit5-logo.png">
-</div>
+</p>
 
-Testing is a core part of my development workflow. I focus on building reliable and maintainable backend systems through automated testing strategies.
-
-**Testing Stack**
+### Testing Stack
 
 - JUnit 5
 - Mockito
-- Assertion Strategies
 - Unit Testing
 - Integration Testing
+- Frontend Testing
 - Testable Architecture
 
-**Testing Practices**
+### Quality Practices
 
-- Mock-based unit testing with Mockito
-- Clear assertion strategies for deterministic tests
-- Isolation of business logic
-- High test coverage for critical services
+- Clean code
+- Isolation of business rules
+- Maintainable test suites
+- High coverage for critical services
+- Automated quality pipelines
+
 ---
 
 # 📊 GitHub Stats
@@ -127,11 +196,35 @@ Testing is a core part of my development workflow. I focus on building reliable 
 
 I enjoy solving complex engineering problems involving:
 
-- System scalability
-- High performance APIs
-- Resilient distributed systems
-- Cloud native architectures
+- Full stack scalability
+- High-performance APIs
+- Modern frontend architecture
+- Distributed systems
+- Cloud-native infrastructure
+- User experience & performance
+- Platform resilience
 
-Always learning and improving engineering practices.
+Always learning, building, and improving engineering practices.
 
 ---
+
+# 🚀 Professional Experience
+
+### Full Stack Engineering
+
+- 10+ years in software engineering
+- Experience with fintech platforms and scalable systems
+- Strong background in backend architecture and cloud infrastructure
+- Experience building modern frontend applications
+- Experience designing APIs and distributed services
+- Experience mentoring developers and supporting technical teams
+
+---
+
+# 🎯 Current Goals
+
+- Continue growing as a Senior Full Stack Engineer
+- Work with international engineering teams
+- Build scalable cloud-native platforms
+- Deepen expertise in distributed systems
+- Contribute to modern engineering practices
